@@ -1,0 +1,10 @@
+.todoitem{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+h2{
+    margin-right: 20px;
+}
